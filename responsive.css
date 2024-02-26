@@ -1,0 +1,30 @@
+@media screen and (max-width:600px){
+
+    .lists {margin-left: auto}
+
+    .home-wrapper img{width: 100%;margin-top: 20px;}
+
+    .home {margin-top: -60px;}
+
+    .about-heading{margin-top: 30px;}
+
+    .progress-bar {
+        width: 100%;
+    }
+
+    .contact-image img{
+        margin-right: 38px;
+    }
+    
+    .navbar-toggler{
+        display: none;
+    }
+
+    .mobile {
+        display:block;margin-left: 20px;
+    }
+
+    .card {margin-top: 50px;}
+
+
+}
